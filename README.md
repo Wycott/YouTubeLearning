@@ -16,7 +16,7 @@ Each section will include useful pointers (or not)
 
 Don't actually delete data from a database, just mark it as deleted and have the reader take care of the details.
 
-Add `IsDeleted` flag and `DeletedAtUtv` (nullable)
+Add `IsDeleted` flag and `DeletedAtUtc` (nullable)
 
 *When: 2 October 2024*
 
