@@ -10,7 +10,7 @@ When: 2 October 2024
 
 ## The Correct Way to Delete Data in .NET
 
-:check: Great
+:white_check_mark: Great
 
 Don't actually delete data from a database, just mark it as deleted and have the reader take care of the details.
 
