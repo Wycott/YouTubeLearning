@@ -2,7 +2,7 @@
 
 Each section will include useful pointers (or not)
 
-[Reactions(https://gist.github.com/rxaviers/7360908)
+[Reactions](https://gist.github.com/rxaviers/7360908)
 
 ## Stop Using Booleans in Your Code! | Code Cop #022
 
