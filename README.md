@@ -1,2 +1,9 @@
-# YouTubeLearning
-Keep track of dev videos I've watched to sort the wheat from the chaff
+# Nick Chapsas
+
+Each section will include useful pointers (or not)
+
+## Stop Using Booleans in Your Code! | Code Cop #022
+
+Nope
+
+When: 2 October 2024
